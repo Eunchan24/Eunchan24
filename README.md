@@ -1,4 +1,4 @@
-![Age](https://img.shields.io/badge/Age-25-blue) ![Focus](https://img.shields.io/badge/Focus-Machine%20Learning-green) ![Lives](https://img.shields.io/badge/Lives-Seoul-green)
+![Age](https://img.shields.io/badge/Age-26-blue) ![Focus](https://img.shields.io/badge/Focus-Machine%20Learning-green) ![Lives](https://img.shields.io/badge/Lives-Seoul-green)
 ### Hello, I'm EunChan Kim. 👋
 ![Eunchan24github stats](https://github-readme-stats.vercel.app/api?username=Eunchan24&theme=material-palenight&count_private=true&hide=contribs)
 
