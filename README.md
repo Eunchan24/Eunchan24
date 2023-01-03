@@ -1,6 +1,25 @@
-![Age](https://img.shields.io/badge/Age-26-blue) ![Focus](https://img.shields.io/badge/Focus-Machine%20Learning-green) ![Lives](https://img.shields.io/badge/Lives-Seoul-green)
-### Hello, I'm EunChan Kim. 👋
-![Eunchan24github stats](https://github-readme-stats.vercel.app/api?username=Eunchan24&theme=vue&count_private=true&hide=contribs)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eqsazaes)](https://solved.ac/eqsazaes/)
-<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEunchan24&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Hello, I'm EunChan Kim. 👋 
+![Focus](https://img.shields.io/badge/Focus-Machine%20Learning-green)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:eunchan.dev@gmail.com) 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://eunchankim-dev.tistory.com/)
+
+  
+### Who Am I
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eqsazaes">
+
+- 🌱 I’m currently learning `Deep learning` `Computer-vision`
+
+<br><br>
+### Experience
+
+- 🔥 Deep In Sight, AI Developer (2021.10~2022.03)
+- 🚪 The Matrix, AI Developer (2022.03~ ) 
+
+<br><br><br>
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Eunchan24" height="165">
+
+### What I Like
+- 📚 Books
