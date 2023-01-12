@@ -13,8 +13,9 @@
 <br><br>
 ### Experience
 
-- 🔥 Deep In Sight, AI Developer (2021.10~2022.03)
 - 🚪 The Matrix, AI Developer (2022.03~ ) 
+- 🔥 Deep In Sight, AI Developer (2021.10~2022.03)
+
 
 <br><br><br>
 
