@@ -6,8 +6,6 @@
   
 ### Who Am I
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eqsazaes">
-
 - 🌱 I’m currently learning `Deep learning` `Computer-vision`
 
 <br><br>
@@ -15,7 +13,7 @@
 
 - 🚪 The Matrix, AI Developer (2022.03~ ) 
 - 🔥 Deep In Sight, AI Developer (2021.10~2022.03)
-
+- 🔥 Deep In Sight, AI Developer Intern (2021.07~2022.10)
 
 <br><br><br>
 
@@ -24,3 +22,4 @@
 
 ### What I Like
 - 📚 Books
+- 🏋️‍♂️ Crossfit
