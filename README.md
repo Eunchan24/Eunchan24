@@ -10,8 +10,8 @@
 
 <br><br>
 ### Experience
-
-- 🚪 The Matrix, AI Developer (2022.03~ ) 
+- 🔩 TIMWORK-inc, ML Engineer (2023.10~ )
+- 🚪 The Matrix, AI Developer (2022.03~2023.10) 
 - 🔥 Deep In Sight, AI Developer (2021.10~2022.03)
 - 🔥 Deep In Sight, AI Developer Intern (2021.07~2022.10)
 
