@@ -18,7 +18,7 @@
 <br><br><br>
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Eunchan24" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Eunchan24&count_private=true&show_icons=true" height="165">
 
 ### What I Like
 - 📚 Books
